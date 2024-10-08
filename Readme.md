@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋
+# Hello, World! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou uma estudante em busca de novos aprendizados!
 
@@ -22,5 +22,7 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante em busca de novos aprendiza
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
 </p>
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mussolin123&layout=compact&theme=dark)
 
 Sinta-se à vontade para explorar meus repositórios! Vamos codar juntos! 🚀
