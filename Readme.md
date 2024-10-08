@@ -1,6 +1,6 @@
 # Olá, Mundo! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou uma estudante e busca de novos aprendizados!
+Bem-vindo ao meu perfil do GitHub! Sou uma estudante em busca de novos aprendizados!
 
 ## Tecnologias que eu uso:
 
